@@ -22,8 +22,8 @@ title: Retorno al Hogar
 email: amandine@magaramusic.com
 description: >- # this means to ignore newlines until "baseurl:"
   Es sencillo, es sólo amor. Magara
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/amandine" # the subpath of your site, e.g. /blog
+url: "https://magaramusic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: magaramusic
 # github_username:  jekyll
 
